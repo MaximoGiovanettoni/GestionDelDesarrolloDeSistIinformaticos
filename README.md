@@ -1,5 +1,5 @@
 # Gestion
-Repositorio con información de la cátedra Fontdevilla del 2C 2025
+Repositorio con información de la cátedra Fontdevilla del 1C 2026
 
 🤓: [Mi apuntes de Notion](https://scratched-lantern-d4a.notion.site/Apuntes-de-Gesti-n-del-Desarrollo-de-Sistemas-Inform-ticos-31e716c1daf480169f2efc5712373ac0?source=copy_link)
 
