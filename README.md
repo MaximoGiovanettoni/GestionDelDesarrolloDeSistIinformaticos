@@ -7,4 +7,4 @@ Repositorio con información de la cátedra Fontdevilla del 1C 2026
 
 📊: [Nuestro TP (back)](https://github.com/federicohonda/consorcio-autogestionado-back)
 
-💻: [Mi NotebookLM](https://notebooklm.google.com/notebook/89a6720b-3aad-4568-837f-d0097fe16467?authuser=1)
+💻: [Mi NotebookLM](https://notebooklm.google.com/notebook/c2137fb5-3bf3-4826-b32b-8ef4894d99e6?utm_source=nlmm_shared0097fe16467?authuser=1)
